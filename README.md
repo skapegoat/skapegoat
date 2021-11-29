@@ -1,7 +1,7 @@
 ### Ooooi! Eu sou a Ana Tavares, mas pode me chamar de Reiko. =)
 
 
-- 🔭 Atualmente trabalho com organização e padronização de Metadados no Magalu
+- 🔭 Atualmente trabalho com organização e padronização de Metadados no Magalu, na área de Machine Learning
 - 🌱 Estou começando meus estudos em Python, IA e Machine Learning (e o que mais vier pela frente!)
 - 👀 Buscando caminhos pra começar uma carreira em tecnologia
 
