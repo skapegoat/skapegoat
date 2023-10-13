@@ -1,9 +1,13 @@
-### Ooooi! Eu sou a Ana Tavares, mas pode me chamar de Reiko. =)
+### Hi! I'm Reiko, a QA Engineer working at Luizalabs! =)
 
 
-- 🔭 Atualmente trabalho com organização e padronização de Metadados no Magalu, na área de Machine Learning
-- 🌱 Estou começando meus estudos em Python, IA e Machine Learning (e o que mais vier pela frente!)
-- 👀 Buscando caminhos pra começar uma carreira em tecnologia
+- 🔭 My name is Ana Tavares, but everyone calls me Reiko.
+- 🌍 My mother language is Brazillian Portuguese. I can also speak English very well. I can comunicate in Japanese and I'm studying Thai right now. Should be trying Chinese pretty soon. 
+- 🌱 I've been developing automation and manual tests to help improving quality to Luizalabs' systems, preventing bugs since march 2022! 
+- 👀 My favorite tool at the moment is Cypress, but I'm also studying Webdriver for future projects.
+- 🧩 I work well with javascript, but I do know a bit of python and Java. Also open to learn new languages if needed.
+- 🕹️ In the past, I've developed a few tiny RPG and action games with Construct2 and Unity.
+- 
 
 <div>  
  <a href="https://github.com/skapegoat">
