@@ -7,7 +7,7 @@
 - 👀 My favorite tool at the moment is Cypress, but I'm also studying Webdriver for future projects.
 - 🧩 I work well with javascript, but I do know a bit of python and Java. Also open to learn new languages if needed.
 - 🕹️ In the past, I've developed a few tiny RPG and action games with Construct2 and Unity.
-- 
+
 
 <div>  
  <a href="https://github.com/skapegoat">
